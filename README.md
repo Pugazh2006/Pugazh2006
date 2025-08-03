@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m @Pugazh2006
+# 👋 Hi there, I’m @PugazhTheHacker
 
 ## 🔐 Authentication Setup (Basic Guide)
 
